@@ -10,12 +10,8 @@ By Mike Fedele
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I was tasked with refactoring the code to semantic HTML as well as making the site more accesible. There were too many overly verbose lines of code in the CSS. The HTML was difficult to read at a glance. This should help with the SEO of the site.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Deployed
 [horiseon seo](https://mikefedele.github.io/Horiseon-refactor/)
